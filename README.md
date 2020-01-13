@@ -36,3 +36,6 @@ or trademarks, whether by implication, estoppel or otherwise.
 
 CI 
 [![Build Status](https://dev.azure.com/sophiezhu/ExampleJavaScript/_apis/build/status/sophie-norman.pipelines-javascript?branchName=master)](https://dev.azure.com/sophiezhu/ExampleJavaScript/_build/latest?definitionId=5&branchName=master)
+
+Job Status
+[![Build Status](https://dev.azure.com/sophiezhu/ExampleJavaScript/_apis/build/status/sophie-norman.pipelines-javascript?branchName=master&jobName=Job)](https://dev.azure.com/sophiezhu/ExampleJavaScript/_build/latest?definitionId=5&branchName=master)
